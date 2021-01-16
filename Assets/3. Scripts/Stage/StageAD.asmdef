@@ -1,0 +1,15 @@
+{
+    "name": "StageAD",
+    "references": [
+        "GUID:f311a85b6c4248c4ba6ee1b67809a2bd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

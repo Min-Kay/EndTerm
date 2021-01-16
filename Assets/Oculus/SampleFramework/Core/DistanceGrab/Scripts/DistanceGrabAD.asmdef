@@ -1,0 +1,19 @@
+{
+    "name": "DistanceGrabAD",
+    "references": [
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30",
+        "GUID:d2761a0af0f567748a72629d4bb18a26",
+        "GUID:7305c54a43f3814439df347c7519653e",
+        "GUID:3388d652a8fa0f4459c9562cbbe52f72",
+        "GUID:f311a85b6c4248c4ba6ee1b67809a2bd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

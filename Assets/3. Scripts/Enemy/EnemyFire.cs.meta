@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9fa0ce90ee33e247b0502f5d7a01393
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireSfx: {fileID: 8300000, guid: 3988c7241ff434c2a900f22726ee7a08, type: 3}
+  - reloadSfx: {fileID: 8300000, guid: fadf80bb36a4b4b11956cd0e19f9a859, type: 3}
+  - Bullet: {fileID: 9112307198957985033, guid: ef28af3d380d3654c9ce4fb254bcf6e3,
+      type: 3}
+  - firePos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
